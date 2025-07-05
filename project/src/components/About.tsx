@@ -45,10 +45,9 @@ const About: React.FC = () => {
             </h3>
             
             <p className="text-gray-700 leading-relaxed text-lg">
-              As a dedicated Data Analyst with over 5 years of experience, I specialize in extracting 
-              meaningful insights from complex datasets to drive strategic business decisions. My expertise 
-              spans across various industries, helping organizations leverage data for measurable growth 
-              and operational efficiency.
+              As a dedicated Data Analyst, I specialize in extracting meaningful insights from complex 
+              datasets to drive strategic business decisions. My expertise spans across various industries, 
+              helping organizations leverage data for measurable growth and operational efficiency.
             </p>
 
             <p className="text-gray-700 leading-relaxed text-lg">
