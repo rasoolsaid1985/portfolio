@@ -57,7 +57,7 @@ const Hero: React.FC = () => {
 
           <p className="text-lg text-gray-700 mb-12 max-w-2xl mx-auto leading-relaxed">
             Passionate about uncovering patterns in data and creating compelling visualizations that tell stories, 
-            with expertise in Python, SQL, Power BI, and statistical analysis.
+            with expertise in Python, SQL, Power BI, Tableau and statistical analysis.
           </p>
 
           {/* CTA Buttons */}
